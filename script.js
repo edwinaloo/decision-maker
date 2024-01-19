@@ -6,9 +6,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function makeDecision() {
         const decisions = [
-            'Yes, go for it!',
-            'No, better not.',
-            'Maybe, take some time to think.'
+            'Yes, play lifeafter',
+            'No, better not play lifeafter but play fortnite',
+            'Maybe, write some code while watching tiktok'
         ];
 
         // Add a class to initiate the spinning animation
